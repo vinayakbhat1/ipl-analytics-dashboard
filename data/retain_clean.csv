@@ -1,0 +1,131 @@
+Name,TeamName,nationality,price_cr,year
+MS Dhoni,CSK,Indian,12.0,2014
+Suresh Raina,CSK,Indian,10.0,2014
+Ravindra Jadeja,CSK,Indian,9.0,2014
+R Ashwin,CSK,Indian,7.0,2014
+Dwayne Bravo,CSK,Overseas,8.0,2014
+,,,,2014
+David Miller,KXIP,Overseas,6.0,2014
+Manan Vohra,KXIP,Indian,2.0,2014
+,,,,2014
+Gautam Gambhir,KKR,Indian,10.0,2014
+Sunil Narine,KKR,Overseas,7.0,2014
+,,,,2014
+Rohit Sharma,MI,Indian,12.0,2014
+Lasith Malinga,MI,Overseas,10.0,2014
+Kieron Pollard,MI,Overseas,9.0,2014
+Harbhajan Singh,MI,Indian,7.0,2014
+Ambati Rayudu,MI,Indian,6.0,2014
+,,,,2014
+Shane Watson,RR,Overseas,9.0,2014
+James Faulkner,RR,Overseas,7.0,2014
+Ajinkya Rahane,RR,Indian,7.0,2014
+Sanju Samson,RR,Indian,4.0,2014
+Stuart Binny,RR,Indian,3.0,2014
+,,,,2014
+Virat Kohli,RCB,Indian,12.0,2014
+Chris Gayle,RCB,Overseas,11.0,2014
+AB de Villiers,RCB,Overseas,10.0,2014
+,,,,2014
+Shikhar Dhawan,SRH,Indian,9.0,2014
+Dale Steyn,SRH,Overseas,10.0,2014
+MS Dhoni,CSK,Indian,15.0,2018
+Suresh Raina,CSK,Indian,11.0,2018
+Ravindra Jadeja,CSK,Indian,7.0,2018
+Rohit Sharma,MI,Indian,15.0,2018
+Hardik Pandya,MI,Indian,11.0,2018
+Jasprit Bumrah,MI,Indian,7.0,2018
+Virat Kohli,RCB,Indian,17.0,2018
+AB de Villiers,RCB,Overseas,11.0,2018
+Sarfaraz Khan,RCB,Indian,3.0,2018
+Sunil Narine,KKR,Overseas,12.5,2018
+Andre Russell,KKR,Overseas,8.5,2018
+David Warner,SRH,Overseas,12.0,2018
+Bhuvneshwar Kumar,SRH,Indian,8.5,2018
+Steve Smith,RR,Overseas,12.5,2018
+Axar Patel,KXIP,Indian,6.75,2018
+Rishabh Pant,DD,Indian,8.0,2018
+Shreyas Iyer,DD,Indian,7.0,2018
+Chris Morris,DD,Overseas,7.0,2018
+Ravindra Jadeja,CSK,Indian,16.0,2022
+MS Dhoni,CSK,Indian,12.0,2022
+Moeen Ali,CSK,Overseas,8.0,2022
+Ruturaj Gaikwad,CSK,Indian,6.0,2022
+Rohit Sharma,MI,Indian,16.0,2022
+Jasprit Bumrah,MI,Indian,12.0,2022
+Suryakumar Yadav,MI,Indian,8.0,2022
+Kieron Pollard,MI,Overseas,6.0,2022
+Virat Kohli,RCB,Indian,15.0,2022
+Glenn Maxwell,RCB,Overseas,11.0,2022
+Mohammed Siraj,RCB,Indian,7.0,2022
+Andre Russell,KKR,Overseas,12.0,2022
+Sunil Narine,KKR,Overseas,12.0,2022
+Venkatesh Iyer,KKR,Indian,8.0,2022
+Varun Chakravarthy,KKR,Indian,8.0,2022
+Kane Williamson,SRH,Overseas,14.0,2022
+Abdul Samad,SRH,Indian,4.0,2022
+Umran Malik,SRH,Indian,4.0,2022
+Rishabh Pant,DC,Indian,16.0,2022
+Axar Patel,DC,Indian,9.0,2022
+Prithvi Shaw,DC,Indian,7.5,2022
+Anrich Nortje,DC,Overseas,6.5,2022
+Sanju Samson,RR,Indian,14.0,2022
+Jos Buttler,RR,Overseas,10.0,2022
+Yashasvi Jaiswal,RR,Indian,4.0,2022
+Mayank Agarwal,PBKS,Indian,12.0,2022
+Arshdeep Singh,PBKS,Indian,4.0,2022
+Ruturaj Gaikwad,CSK,Indian,18.0,2025
+Ravindra Jadeja,CSK,Indian,18.0,2025
+Matheesha Pathirana,CSK,Overseas,13.0,2025
+Shivam Dube,CSK,Indian,12.0,2025
+MS Dhoni,CSK,Indian,4.0,2025
+,,,,2025
+Axar Patel,DC,Indian,16.5,2025
+Kuldeep Yadav,DC,Indian,13.25,2025
+Tristan Stubbs,DC,Overseas,10.0,2025
+Abhishek Porel,DC,Indian,4.0,2025
+,,,,2025
+Rashid Khan,GT,Overseas,18.0,2025
+Shubman Gill,GT,Indian,16.5,2025
+Sai Sudharsan,GT,Indian,8.5,2025
+Rahul Tewatia,GT,Indian,4.0,2025
+Shahrukh Khan,GT,Indian,4.0,2025
+,,,,2025
+Rinku Singh,KKR,Indian,13.0,2025
+Varun Chakravarthy,KKR,Indian,12.0,2025
+Sunil Narine,KKR,Overseas,12.0,2025
+Andre Russell,KKR,Overseas,12.0,2025
+Ramandeep Singh,KKR,Indian,4.0,2025
+Harshit Rana,KKR,Indian,4.0,2025
+,,,,2025
+Nicholas Pooran,LSG,Overseas,21.0,2025
+Ravi Bishnoi,LSG,Indian,11.0,2025
+Mayank Yadav,LSG,Indian,11.0,2025
+Mohsin Khan,LSG,Indian,4.0,2025
+Ayush Badoni,LSG,Indian,4.0,2025
+,,,,2025
+Jasprit Bumrah,MI,Indian,18.0,2025
+Suryakumar Yadav,MI,Indian,16.35,2025
+Hardik Pandya,MI,Indian,16.35,2025
+Rohit Sharma,MI,Indian,16.3,2025
+Tilak Varma,MI,Indian,8.0,2025
+,,,,2025
+Shashank Singh,PBKS,Indian,5.5,2025
+Prabhsimran Singh,PBKS,Indian,4.0,2025
+,,,,2025
+Sanju Samson,RR,Indian,18.0,2025
+Yashasvi Jaiswal,RR,Indian,18.0,2025
+Dhruv Jurel,RR,Indian,14.0,2025
+Riyan Parag,RR,Indian,14.0,2025
+Shimron Hetmyer,RR,Overseas,11.0,2025
+Sandeep Sharma,RR,Indian,4.0,2025
+,,,,2025
+Virat Kohli,RCB,Indian,21.0,2025
+Rajat Patidar,RCB,Indian,11.0,2025
+Yash Dayal,RCB,Indian,5.0,2025
+,,Overseas,,2025
+Heinrich Klaasen,SRH,Overseas,23.0,2025
+Pat Cummins,SRH,Overseas,18.0,2025
+Abhishek Sharma,SRH,Indian,14.0,2025
+Travis Head,SRH,Overseas,14.0,2025
+Nitish Kumar Reddy,SRH,Indian,6.0,2025
